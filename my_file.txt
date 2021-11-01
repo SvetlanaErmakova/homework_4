@@ -1,0 +1,214 @@
+ёнит 4
+Decimal Fractions
+Numbers such as .4 and .07 are called decimal fractions, or simply decimals. The same numbers may be written as and и 4\10 и 7\10. They are then called common fractions, or simply fractions. Both are read in the same way: Сfour tenths* and Сseven hundredthsТ.
+In a common fraction, the number below the line is the denomiђnator, and the number above the line is the numerator.
+In a decimal fraction we omit the denominator and place a dot, called a decimal point, in front of the numerator. 
+
+
+The denominator of a common fracђ tion may be any number. The unwritten denominator of a decimal fraction is always 10, 100, 1000, or some other power of 10.
+
+
+
+Common fractions have been used for a longer time than have deciђmal fractions. In fact, decimal fractions did not appear until the latter part of the 16th century. Decimals are easier to write and to print than are common fractions. It is also easier to compute with them.
+For these reasons decimals have come to be widely used in business, science, and statistics.
+
+	ёнит 4
+ƒес€тичные дроби
+“акие числа, как .4 и .07, называютс€ дес€тичными дроб€ми или просто дес€тичными. “е же числа могут быть записаны как 4\10 и 7\100. «атем(“огда) их называют обыкновенными дроб€ми или просто дроб€ми. » то и другое читаетс€ одинаково: Счетыре дес€тых" и "семь сотых".
+
+¬ обыкновенной дроби число под линией €вл€етс€ знаменателем, а число над линией-числителем. ¬ дес€тичной дроби мы опускаем знаменатель и ставим точку, называемую дес€тичной точкой, перед числителем. «наменателем общей дроби может быть любое число. Ќеписаный(ненаписанный) знаменатель дес€тичной дроби всегда равен 10, 100, 1000 или какой-либо другой степени 10.
+
+
+ќбыкновенные дроби использовались в течение более длительного времени, чем дес€тичные. Ќа самом деле дес€тичные дроби по€вились только во второй половине XVI века. ƒес€тичные дроби легче писать и печатать, чем обычные дроби. — ними также легче вычисл€ть.
+ѕо этим причинам дес€тичные дроби стали широко использоватьс€ в бизнесе, науке и статистике.
+How to Read Decimals
+If there is only one figure to the right of the decimal point, we say СtenthsТ when we read the decimal. For example, we read .1 as Сone tenths*.
+If there are two figures to the right of the decimal point, we say СhundredthsТ. We read .24 as Сtwenty-four hundredthsТ and .06 as Сsix hundredths*.
+
+If there are three figures to the right of the decimal point, we say СthousandthsТ. We read ,256 as Сtwo hundred fifty-six thousandthsТ, .075 as Сseventy-five thousandthsТ, and .008 as Сeight thousandthsТ.
+
+Four figures to the right of the decimal point are read as Сten- thousandthsТ. We read .3852 as Сthree thousand, eight hundred fifty- two ten-thousandthsТ.
+After ten-thousandths there are hundred-thousandths, millionths and so on.
+
+If a number has figures both to the left and to the right of the decimal point, the number is a decimal mixed number. The number 2.38 is read Сtwo and thirty-eight hundredthsТ. The word СandТ is used only where the decimal point appears in order to separate the whole number from the decimal fraction. To avoid confusion the business practice for reading decimals is to say СpointТ instead of СandТ. For example, the number 2.38 would be read Сtwo point three eightТ	 ак читать дес€тичные дроби
+≈сли есть только одна цифра справа от дес€тичной точки, мы говорим Сдес€тыеТ, когда читаем дес€тичную. Ќапример, мы читаем .1 как "одна дес€та€".
+≈сли справа от дес€тичной точки есть две цифры, мы говорим " сотыеТ. ћы читаем .24 как "двадцать четыре сотыхТ и .06 как "шесть сотых".
+
+≈сли справа от дес€тичной точки есть три цифры, мы говорим Стыс€чныеТ. ћы читаем ,256 как Сдвести п€тьдес€т шесть тыс€чныхТ, .075 как "семьдес€т п€ть тыс€чныхТ и .008 как "восемь тыс€чных".
+
+„етыре цифры справа от дес€тичной точки читаютс€ как "дес€титыс€чные". ћы читаем .3852 как " три тыс€чи восемьсот п€тьдес€т две дес€титыс€чныхТ.
+ѕосле дес€титыс€чных идут стотыс€чные, миллионные и так далее.
+
+≈сли число имеет цифры как слева, так и справа от дес€тичной точки, то это дес€тичное смешанное число. „исло 2.38 читаетс€ как " две и тридцать восемь сотыхТ. —лово " и " используетс€ только там, где по€вл€етс€ дес€тична€ точка, чтобы отделить целое число от дес€тичной дроби. „тобы избежать путаницы, делова€ практика чтени€ дес€тичных знаков заключаетс€ в том, чтобы говорить "точка" вместо "и". Ќапример, число 2.38 будет читатьс€ как "два целых три дес€тых восемь"
+
+to the right/left of 
+in front of
+
+to avoid smth, in fact, for these reasons, for example, in order to
+
+figure 
+
+Br two hundred and fifty-six 256	справа/слева 
+перед
+
+чтобы избежать чего-то, на самом деле, по этим причинам, например, дл€ того, чтобы
+
+рисунок, иллюстраци€, фигура, цифра
+
+Am two hundred fifty-six 256 п
+
+ёнит 8
+Numeration Systems and Numbers
+More than 5,000 years ago an Egyptian ruler recorded, perhaps with a bit of exaggeration, the capture of 120,000 prisoners, 400,000 oxen, and 1,422, 000 goats. This event was inscribed on a ceremonial mace which is now in a museum in Oxford, England.
+	ёнит 8
+—истемы счислени€ и числа
+Ѕолее 5000 лет назад египетский правитель записал, возможно, с некоторым преувеличением, захват 120 000 пленных, 400 000 быков и 1 422 000 коз. Ёто событие было начертано на церемониальной булаве, котора€ сейчас находитс€ в музее в ќксфорде, јнгли€.
+The ancient Egyptians developed the art of counting to a high degree, but their system of numeration was very crude. For example, the number 1,000 was symbolized by a picture of a lotus flower and the number 2,000 was symbolized by a picture of two lotus flowers growing out of a bush. Although these symbols, called hieroglyphics, permitted the Egyptian to write large numbers, the numeration system was clumsy and awkward to work with. The number 9991 for instance, required 27 individual marks.
+
+
+In our system of numeration, we use ten symbols called digits Ч 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9 Ч and combinations of these symbols. Our system of numeration is called decimal, or base-ten, system. There is little doubt that our ten fingers influenced the development of a numeration system based on ten digits.
+
+
+
+
+Other numeration systems were developed in early cultures and societies. 
+
+Two of the most common were the base-five system, related to the number of fingers on one hand and the base-twenty system, related to the number of fingers and toes.
+In some languages the word for СfiveТ is the same as the word for СhandТ, and the word for СtenТ is the same as the word for Сtwo handsТ. In our language the word Сdigit* is a synonym for the word Сfinger* Ч that is, ten digits, ten fingers.
+Still another early system of numeration was a base-sixty system developed by the Mesopotamians and used for centuries. 
+
+These ancient people divided the year into 360 days (6 x 60); today we still divide the hour into 60 minutes and the minute to 60 seconds. Numeration systems of current interest include a binary, or base-two, system used in electronic computers and a base-twelve, or duodecimal system.
+
+
+
+
+It is worthwhile to become familiar with the principles of the base≠ twelve system of numeration and with those of base-two, base-five, or other systems. Working with other bases gives you deeper insight into the decimal system you have used since childhood.	ƒревние египт€не развили искусство счета в высокой степени, но их система счислени€ была очень грубой. Ќапример, число 1000 символизировалось изображением цветка лотоса, а число 2000-изображением двух цветков лотоса, растущих из куста. ’от€ эти символы, называемые иероглифами, позвол€ли египт€нину писать большие числа, система счислени€ была неуклюжей и неудобной дл€ работы. Ќапример, число 9991 требовало 27 индивидуальных отметок.
+
+
+¬ нашей системе счислени€ мы используем дес€ть символов, называемых цифрамиЧ 0, 1, 2, 3, 4, 5, 6, 7, 8, а 9 Ч и комбинации этих символов. Ќаша система счислени€ называетс€ дес€тичной, или (?)\англ аналог слова\. Ќет никаких сомнений в том, что наши дес€ть пальцев повли€ли на развитие системы счислени€, основанной на дес€ти цифрах.
+
+
+ƒругие системы счислени€ были разработаны в ранних культурах и обществах. 
+ƒвум€ наиболее распространенными были система п€тирична€, св€занна€ с количеством пальцев на одной руке, и система двадцатерична€, св€занна€ с количеством пальцев на руках и ногах.
+¬ некоторых €зыках слово "п€тьТ равно слову "рука", а слово "дес€тьТ равно слову "две руки". 
+¬ нашем €зыке слово "цифра" €вл€етс€ синонимом слова "палец" Ч то есть дес€ть цифр, дес€ть пальцев.
+≈ще одной ранней системой счислени€ была система шестидес€ти базовых чисел, разработанна€ месопотамцами и использовавша€с€ в течение столетий. 
+Ёти древние люди делили год на 360 дней (6 х 60); сегодн€ мы все еще делим час на 60 минут и минуту на 60 секунд. 
+—истемы счислени€, представл€ющие интерес в насто€щее врем€, включают двоичную, или двойную, систему, используемую в электронных вычислительных машинах, и двенадцатеричную, или двенадцатеричную, систему.
+
+—тоит ознакомитьс€ с принципами двенадцатеричной сист счислени€ и с принципами двоичной сист счисл, п€тиричной и других систем. –абота с другими основани€ми дает вам более глубокое понимание дес€тичной системы, которую вы использовали с детства.
+
+
+become familiar with, divide into, to influence smth, synonym for 
+
+
+They developed (the art) systems were developed in (early societies) by (them)
+
+
+On the one hand
+
+number, numeral and digit
+	знакомитьс€, делить на, вли€ть на что-то,
+синонимично чему то
+
+
+они разработали искусство, сист были ими разработаны
+
+с одной стороны
+
+число, цифра и цифра(знак)
+ёнит 9
+Inertia and NewtonТs Laws of Motion
+Many problems in dynamics deal with bodies such as airplanes, bullets, and planets Hying by themselves through space. Solutions for such problems are based upon NewtonТs three laws of motion.
+The first law states a great fundamental property of matter called inertia, as follows: 1. Every body remains in a state of rest or of uniform motion (constant speed in a straight line) unless it is compelled by impressed forces to change that state.
+
+
+
+Under this law a moving body is Сat restТ as far as its own inertia is concerned, as long as its motion continues at the same speed and in the same direction. 
+
+Therefore particles (or even worlds) of matter will keep flying through empty space forever, without being driven by any force, until something compels them to change their motion.
+NewtonТs second law tells how a force compels a change of motion, at a rate of change called an acceleration. Newton stated the law as follows: 2. 
+
+Change of motion is proportional to the impressed force and takes place in the direction of the straight line in which that force is impressed.
+This law can be stated much more simply as a formula, using letters for force, mass, and acceleration: F = ma. 
+The wording of the law, however, makes clear how an impressed force acts. 
+
+
+
+
+The force does not necessarily compel the affected matter to set off in the direction in
+which the force is acting. It simply compels a change in the bodyТs motion toward that direction.
+NewtonТs third law is as follows: 3. Action and reaction are equal and opposite.
+This law states a fact which can upset many calculations unless it is taken into account. 
+
+It explains, for example, the saying that a man cannot lift himself by his bootstraps. Similarly, a man cannot lift himself by sitting in a chair and pulling up on the seat or rungs. As he pulls up on the chair, the effect reacts downward to the chair, and the chair pulls down on him. Action and reaction are equal and opposite. A striking modern example of action and reaction is jet propulsion.	ёнит 9
+»нерци€ и законы движени€ Ќьютона
+ћногие проблемы в динамике касаютс€ таких тел,  как самолеты, пули и планеты, лет€щие сами по себе в пространстве. –ешени€ таких задач основаны на трех законах движени€ Ќьютона.
+ѕервый закон утверждает великое фундаментальное свойство материи, называемое инерцией, следующим образом: 1.  аждое тело остаетс€ в состо€нии поко€ или равномерного движени€ (посто€нной скорости по пр€мой линии), если только оно не вынуждено под действием сил воздействи€ изменить это состо€ние.
+ѕо этому закону движущеес€ тело "покоитс€" в том, что касаетс€ его собственной инерции, пока его движение продолжаетс€ с той же скоростью и в том же направлении. 
+ѕоэтому частицы (или даже миры) материи будут вечно летать в пустом пространстве, не будучи движимыми какой-либо силой, пока что-то не заставит их изменить свое движение.
+¬торой закон Ќьютона говорит о том, как сила вынуждает изменение движени€ со скоростью изменени€, называемой ускорением. Ќьютон сформулировал закон следующим образом: 2. »зменение движени€ пропорционально воздействующей силе и происходит в направлении пр€мой линии, в которой эта сила воздействует.
+Ётот закон можно сформулировать гораздо проще в виде формулы, использу€ буквы дл€ обозначени€ силы, массы и ускорени€: F = ma. ‘ормулировка закона, однако, €сно показывает, как действует воздействующа€ сила. 
+
+
+
+
+—ила не об€зательно вынуждает затронутую материю двигатьс€ в направлении, в котором действует сила. ќн просто заставл€ет изменить движение тела в этом направлении.
+“ретий закон Ќьютона таков: 3. ƒействие и реакци€ равны и противоположны.
+Ётот закон утверждает факт, который может расстроить многие расчеты, если его не прин€ть во внимание.
+Ёто объ€сн€ет, например, поговорку о том, что человек не может подн€ть себ€ за ноги. “очно так же человек не может подн€тьс€, сид€ в кресле и подт€гива€сь на сиденье или перекладинах.  огда он подт€гиваетс€ на стуле, эффект реагирует(?) вниз на стул, и стул т€нет вниз на него. ƒействие и реакци€ равны и противоположны. ярким современным примером действи€ и реакции €вл€етс€ реактивное движение.
+unless it is compelled to change that state, unless it is taken into account, as long as its motion continues, as he pulls up on the chair, until something compels them	если только его не застав€т изменить это состо€ние, если оно не будет прин€то во внимание, пока его движение продолжаетс€, пока он подт€гиваетс€ на стуле, пока что-то не заставит их
+ёнит 10
+The Number Line and the Rational Numbers
+The set of real numbers may be pictured as the set of points on a line, and we speak of the set of real numbers as the number line. A point on the line is chosen to represent the number 0 and other points are chosen for the numbers 4-1, 4-2, +3, +4, and so on.
+The set of positive integers is called a subset of the set of real numbers and consists of all the positive numbers. 
+
+The set of negative integers is also a subset of the set of real numbers and consists of all the negative numbers: -1, -2, -3, and so on.
+ЕЕ
+
+The drawing of the number line may be extended to the right and to the left as necessary.
+The set of integers consists of all the positive integers, all the neg≠ ative integers, and zero.
+When one integer is divided by another nonzero integer, the quotient is called a rational number. Rational numbers may be represented as fractions. For example, the fraction +1\2| represents the quotient of
++1 divided by +2. 
+
+
+The symbol above the line is called the numerator of the fraction, and the symbol below the line is called the denominator of the fraction.
+Rational numbers may also be represented as decimals. A fraction can be converted by division to the decimal representation as follows:
+Е
+You may have noticed that the rational numbers include both pos≠ itive and negative integers. For example, -4 is a rational number be≠cause ().
+
+
+
+The Irrational Numbers
+In the real number system, every rational number corresponds to a point on the number line. For example, the point corresponding to () may be found by dividing the segment between 0 and +1 into thirds and then constructing the segment 7 times as long as the segment from 0 to ().
+Е
+However, not every point that can be shown on a real-number line designates a rational number. The ancient Greek geometers were the first to discover that there are some real numbers which are not ratio≠nal. They showed, that if we construct a square measuring 1 unit by 1 unit the length of the diagonal (denoted by d in the drawing) is not a rational number.
+
+Е
+
+The Pythagorean theorem, named after the Greek geometer Pythago≠ ras, states that the square of the hypotenuse of a right triangle is equal to the sum of the squares of the legs. By this theorem,
+Е.
+The real numbers which are not rational are called irrational num≠ bers. Other irrational numbers are (). (Say Сsquare root of threeТ, Сsquare root of fiveТ, and СpiТ. Pi is the circumference of a circle whose diameter is 1 unit in length.)	ёнит 10
+„ислова€ ось и рациональные числа
+ћножество действительных чисел можно представить как множество точек на пр€мой, и мы говорим о множестве действительных чисел как о числовой оси. “очка на линии выбираетс€ дл€ представлени€ числа 0, а другие точки выбираютс€ дл€ чисел +1, +2, +3, +4, и так далее.
+ћножество положительных целых чисел называетс€ подмножеством множества действительных чисел и состоит из всех положительных чисел. ћножество отрицательных целых чисел также €вл€етс€ подмножеством множества действительных чисел и состоит из всех отрицательных чисел: -1, -2, -3 и т. ƒ.
+ЕЕ..
+–исунок числовой линии может быть расширен вправо и влево по мере необходимости.
+Ќабор целых чисел состоит из всех положительных целых чисел, всех отрицательных целых чисел и нул€.
+ огда одно целое число делитс€ на другое ненулевое, частное называетс€ рациональным числом. –ациональные числа могут быть представлены в виде дробей. Ќапример, дробь +1\2| представл€ет собой частное от +1 делитс€ на +2. 
+—имвол над линией называетс€ числителем дроби, а символ под линией-знаменателем дроби.
+–ациональные числа также могут быть представлены в виде дес€тичных дробей. ƒробь может быть преобразована делением в дес€тичное представление следующим образом:
+Е..
+¬озможно, вы заметили, что рациональные числа включают в себ€ как положительные, так и отрицательные целые числа. Ќапример, -4-это рациональное число, потому что ().
+
+»ррациональные числа
+¬ реальной системе счислени€ каждое рациональное число соответствует точке на числовой линии. Ќапример, точку, соответствующую (), можно найти, разделив отрезок от 0 до +1 на три части, а затем построив отрезок в 7 раз длиннее отрезка от 0 до ().
+Е
+ќднако не кажда€ точка, котора€ может быть показана на линии действительного числа, обозначает рациональное число. ƒревнегреческие геометры первыми открыли, что существуют некоторые вещественные числа, которые не €вл€ютс€ рациональными. ќни показали, что если построить квадрат размером 1 единица на 1 единицу, то длина диагонали (обозначенной на чертеже d) не €вл€етс€ рациональным числом.
+Е.
+“еорема ѕифагора, названна€ в честь греческого геометра ѕифагора, гласит, что квадрат гипотенузы пр€моугольного треугольника равен сумме квадратов катетов. ѕо этой теореме,
+Е..
+ƒействительные числа, которые не €вл€ютс€ рациональными, называютс€ иррациональными числами. ƒругими иррациональными числами €вл€ютс€ (). (—кажите Сквадратный корень из трех", Сквадратный корень из п€тиТ и Спи". ѕи - это окружность окружности, диаметр которой равен 1 единице длины.)
+
+
+
